@@ -10,7 +10,7 @@ import math
 from time import time
 import os
 
-
+#some changes
 #read the table
 greenscore_table = pd.read_csv("C:\\Users\\Varun Srivastava\\Desktop\\GC_Backend\\GC_Backend\\GreenScore Tables and Consolidation Code\\GS_GreenScores_all_systems_Nominated_brands_05-07.csv")
 
